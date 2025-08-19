@@ -1,6 +1,5 @@
 'use client';
 
-import Link from 'next/link';
 import Image from 'next/image';
 import { useEffect, useState } from 'react';
 import emailjs from '@emailjs/browser';
@@ -809,7 +808,7 @@ export default function Home() {
             <div className="contact-hero-content">
               <h1 className="contact-title">Get In Touch</h1>
               <p className="contact-subtitle">
-                Let&apos;s connect and explore how we can work together
+                Let&apos;sLet&apos;s connect and explore how we can work together
               </p>
             </div>
 
