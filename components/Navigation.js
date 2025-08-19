@@ -107,6 +107,8 @@ export default function Navigation() {
                     -webkit-background-clip: text;
                     -webkit-text-fill-color: transparent;
                     background-clip: text;
+                    font-size: 1.5rem;
+                    font-weight: 700;
                 }
 
                 .nav-links {
