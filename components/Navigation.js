@@ -74,7 +74,7 @@ export default function Navigation() {
                     left: 0;
                     right: 0;
                     z-index: 1000;
-                    background: rgba(255, 255, 255, 0.9);
+                    background: rgb(17, 25, 40);
                     backdrop-filter: blur(10px);
                     transition: all 0.3s ease;
                     padding: 1.5rem 0;
@@ -229,7 +229,7 @@ export default function Navigation() {
 
                 @media (prefers-color-scheme: dark) {
                     .nav {
-                        background: rgba(15, 15, 15, 0.9);
+                        background: rgb(17, 25, 40);
                     }
 
                     .nav-link {
